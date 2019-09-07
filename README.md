@@ -1,1 +1,1 @@
-# xxRider.github.io
+only for education usage
